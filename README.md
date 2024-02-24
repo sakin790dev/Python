@@ -12,3 +12,5 @@
 - Python Shall
 - import via Shell
 - import os => os.getcwd [Get Current Directory]
+- os, sys
+- import via Dot Notation [importlib]
