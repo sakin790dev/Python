@@ -14,3 +14,4 @@
 - import os => os.getcwd [Get Current Directory]
 - os, sys
 - import via Dot Notation [importlib]
+- exit() => for excit in shall
