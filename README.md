@@ -15,3 +15,10 @@
 - os, sys
 - import via Dot Notation [importlib]
 - exit() => for excit in shall
+### DataType 
+- Variable names are case-sensitive.
+- Variable names are case-sensitive (age, Age and AGE are three different variables)
+- A variable name cannot be any of the Python keywords.
+- Camel Case  myVariableName = "John"
+- Pascal Case MyVariableName = "John"
+- Snake Case my_variable_name = "John"
