@@ -1,3 +1,5 @@
+# In Python I don`t to Define type , but if i want then i can
+
 x = int (10);
 y = str ("sakin");
 print(type (x));
@@ -22,7 +24,7 @@ fruits = ["apple", "banana", "cherry"]
 fruit1,fruit2,fruit3 = fruits
 print(fruit1,fruit2,fruit3)
 
-#Assignment 
+#Assignment  Operator
 count1 = 100
 count2=200
 print(count1+count2) #300
@@ -43,7 +45,7 @@ myFun()
 
 print(item)
  
- # Global 
+ # Global variable De-clearation
 def myFunction():
     global z # z is now a Global Variable
     z = "I'm the Global Scope"
