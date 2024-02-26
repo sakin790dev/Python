@@ -24,3 +24,17 @@ print(const.capitalize()) # first charector capital hobe
 #casefold()
 score1= "ATTACK"
 print(score1.casefold()) # attack
+
+#encode()
+print(score1.encode()) # binary encoded version
+
+#endwith() 
+txt = "Hello, welcome to my world."
+x = txt.endswith(".") # (.) diye end hosse kina
+print(x)
+
+#Find() Kothai welcome ache?
+txt = "Hello, welcome to my world."
+x = txt.find("welcome")
+print(x) #7
+print(txt.find("e")) #1
