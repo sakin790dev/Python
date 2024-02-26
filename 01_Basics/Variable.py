@@ -21,8 +21,14 @@ print(score1,score2,score3)
 
 # Unpack a Collection
 fruits = ["apple", "banana", "cherry"]
-fruit1,fruit2,fruit3 = fruits
-print(fruit1,fruit2,fruit3)
+fruit1,fruit2,fruit3, fruit4 = fruits
+print(fruit1,fruit2,fruit3,fruit4) # ValueError: not enough values to unpack
+
+
+fruits = ["apple", "banana", "cherry"]
+fruit1,fruit2,fruit3,fruit4 = fruits
+print(fruit1,fruit2,fruit3,fruit4)
+
 
 #Assignment  Operator
 count1 = 100
