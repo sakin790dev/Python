@@ -1,5 +1,4 @@
-txt = "Hello, welcome to my world."
-
-x = txt.find("welcome")
-
-print(x)
+thislist = ["apple", "banana", "cherry"]
+thistuple = ("kiwi", "orange")
+thislist.extend(thistuple)
+print(thislist)
