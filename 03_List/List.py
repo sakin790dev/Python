@@ -13,7 +13,7 @@ duplicateList = ["Sakin", "Tamim", "Shawon", "Tamim"]
 print(duplicateList)
 print(len(duplicateList)) # 4
 
-# DataType => Sob Rokom data store kora somvob
+# Uses => Sob Rokom data store kora somvob
 list1 = ["apple", "banana", "cherry"]
 list2 = [1, 5, 7, 9, 3]
 list3 = [True, False, False]
