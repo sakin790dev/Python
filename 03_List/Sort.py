@@ -1,3 +1,5 @@
+# Diff way to sorting method
+
 score = [100,400,6,7999,]
 score.sort() # reverse=True  reverse=False
 print(score)
