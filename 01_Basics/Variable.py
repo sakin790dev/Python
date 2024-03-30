@@ -19,7 +19,7 @@ print(name1,name2,name3)
 score1 = score2 = score3 = 100
 print(score1,score2,score3)
 
-# Unpack a Collection
+# Unpack
 fruits = ["apple", "banana", "cherry"]
 fruit1,fruit2,fruit3, fruit4 = fruits
 print(fruit1,fruit2,fruit3,fruit4) 
