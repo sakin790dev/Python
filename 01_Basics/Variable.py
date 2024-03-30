@@ -1,4 +1,4 @@
-# In Python I don`t to Define type , but if i want then i can
+
 
 x = int (10);
 y = str ("sakin");
@@ -22,7 +22,7 @@ print(score1,score2,score3)
 # Unpack a Collection
 fruits = ["apple", "banana", "cherry"]
 fruit1,fruit2,fruit3, fruit4 = fruits
-print(fruit1,fruit2,fruit3,fruit4) # ValueError: not enough values to unpack
+print(fruit1,fruit2,fruit3,fruit4) 
 
 
 fruits = ["apple", "banana", "cherry"]
@@ -37,7 +37,6 @@ print(count1+count2) #300
 print(count1,count2)# 100 200
 
 
-# Global Variables
 """
 Variables that are created outside of a function (as in all of the examples above) are known as global variables.
 Global variables can be used by everyone, both inside of functions and outside.
@@ -53,7 +52,7 @@ print(item)
  
  # Global variable De-clearation
 def myFunction():
-    global z # z is now a Global Variable
+    global z 
     z = "I'm the Global Scope"
 myFunction() 
 print(z)      
